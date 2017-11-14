@@ -48,6 +48,7 @@ import rx.Observer;
 import rx.Subscription;
 import rx.functions.Action1;
 
+// Modified 1 by laxman.
 public abstract class BaseActivity
         extends ActionBarActivity
         implements SafeSubscriptionManager.ConvenienceMethods,
