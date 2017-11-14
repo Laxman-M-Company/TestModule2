@@ -1,2 +1,0 @@
-This is sub module1 test file 1.
-sub modudle1 test file modification 2.
